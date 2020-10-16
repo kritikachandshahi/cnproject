@@ -1,0 +1,16 @@
+button a {margin: 20px;} 
+ h1 {
+     color: red;
+ }
+ .centre {
+     text-align: center;
+ }
+ .box {border-width: thick;
+ }  
+ .box1 {background-color:  yellowgreen;}
+ .box2 {background-color: thistle;}
+ .box3 {background-color: violet;}
+ .box4 {background-color: wheat;}
+ body {
+     background-color: rgba(255, 192, 203, 0.815);
+ }

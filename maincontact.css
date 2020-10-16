@@ -1,0 +1,12 @@
+h1 {
+    color: darkgreen;
+}
+.small {
+    font: 10;
+}
+.centre {
+    text-align: center;
+}
+body {
+    background-color: rgba(221, 160, 221, 0.822);
+}

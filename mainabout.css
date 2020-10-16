@@ -1,0 +1,19 @@
+ h1 {
+    color: darkblue;
+}
+.large {
+    font: 30;
+    text-align: center;
+}
+p {
+    color: royalblue;
+}
+.medium {
+    font: 20;
+}
+body {
+    background-image: url(sun.jpg); width: 200;height: 150;
+}
+body {
+    background-color: rgba(153, 205, 50, 0.055);
+}
